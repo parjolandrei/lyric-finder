@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "538b7bcfd27f91fa7a5f4e3597587af1",
+    "revision": "2ca38c5c2d908715f8b581069bdada51",
     "url": "/lyric-finder/index.html"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/lyric-finder/static/js/2.640353b4.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "0873ba952c545bdb896c",
-    "url": "/lyric-finder/static/js/main.3f58c358.chunk.js"
+    "revision": "bb6860535b20a71a2871",
+    "url": "/lyric-finder/static/js/main.0b6be52a.chunk.js"
   },
   {
     "revision": "3d869acbac012a290809",
